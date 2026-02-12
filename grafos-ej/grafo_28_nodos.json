@@ -1,0 +1,244 @@
+{
+    "aristas": [
+        {
+            "origen": "Nodo1",
+            "destino": "Nodo2",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo1",
+            "destino": "Nodo5",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo1",
+            "destino": "Nodo9",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo2",
+            "destino": "Nodo3",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo2",
+            "destino": "Nodo6",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo2",
+            "destino": "Nodo10",
+            "peso": 8
+        },
+        {
+            "origen": "Nodo3",
+            "destino": "Nodo4",
+            "peso": 2
+        },
+        {
+            "origen": "Nodo3",
+            "destino": "Nodo7",
+            "peso": 9
+        },
+        {
+            "origen": "Nodo3",
+            "destino": "Nodo11",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo4",
+            "destino": "Nodo8",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo4",
+            "destino": "Nodo12",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo5",
+            "destino": "Nodo6",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo5",
+            "destino": "Nodo13",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo5",
+            "destino": "Nodo14",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo6",
+            "destino": "Nodo7",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo6",
+            "destino": "Nodo15",
+            "peso": 9
+        },
+        {
+            "origen": "Nodo7",
+            "destino": "Nodo8",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo7",
+            "destino": "Nodo16",
+            "peso": 2
+        },
+        {
+            "origen": "Nodo8",
+            "destino": "Nodo17",
+            "peso": 8
+        },
+        {
+            "origen": "Nodo8",
+            "destino": "Nodo18",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo9",
+            "destino": "Nodo10",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo9",
+            "destino": "Nodo19",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo10",
+            "destino": "Nodo11",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo10",
+            "destino": "Nodo20",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo11",
+            "destino": "Nodo12",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo11",
+            "destino": "Nodo21",
+            "peso": 9
+        },
+        {
+            "origen": "Nodo12",
+            "destino": "Nodo22",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo12",
+            "destino": "Nodo23",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo13",
+            "destino": "Nodo14",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo13",
+            "destino": "Nodo24",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo14",
+            "destino": "Nodo15",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo14",
+            "destino": "Nodo25",
+            "peso": 8
+        },
+        {
+            "origen": "Nodo15",
+            "destino": "Nodo16",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo15",
+            "destino": "Nodo26",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo16",
+            "destino": "Nodo17",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo16",
+            "destino": "Nodo27",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo17",
+            "destino": "Nodo18",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo17",
+            "destino": "Nodo28",
+            "peso": 9
+        },
+        {
+            "origen": "Nodo18",
+            "destino": "Nodo19",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo19",
+            "destino": "Nodo20",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo20",
+            "destino": "Nodo21",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo21",
+            "destino": "Nodo22",
+            "peso": 2
+        },
+        {
+            "origen": "Nodo22",
+            "destino": "Nodo23",
+            "peso": 5
+        },
+        {
+            "origen": "Nodo23",
+            "destino": "Nodo24",
+            "peso": 7
+        },
+        {
+            "origen": "Nodo24",
+            "destino": "Nodo25",
+            "peso": 3
+        },
+        {
+            "origen": "Nodo25",
+            "destino": "Nodo26",
+            "peso": 4
+        },
+        {
+            "origen": "Nodo26",
+            "destino": "Nodo27",
+            "peso": 6
+        },
+        {
+            "origen": "Nodo27",
+            "destino": "Nodo28",
+            "peso": 5
+        }
+    ]
+}
